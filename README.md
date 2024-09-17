@@ -1,6 +1,4 @@
-# JavaBasics Mini-Program - Part 1
-
-<h3>Creates a blank Java file with a main method.</h3>
+# Conversion Program
 <p><span style="text-decoration: underline;"><strong><span style="color: #000000; text-decoration: underline;">Your program will:</span></strong></span></p>
 <ul>
     <li><span style="color: #000000;">Ask the user what type of conversion they want to perform - Binary to Decimal or Decimal to Binary.&nbsp; If they enter a choice that is not one that is given, ask them again until they give a valid input.</span></li>
